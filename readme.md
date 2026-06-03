@@ -1,7 +1,3 @@
-Dựa trên kết quả bạn gửi, bạn có thể viết phần **Kết quả kiểm thử hiệu năng bằng JMeter** như sau.
-
----
-
 # Kiểm thử hiệu năng website YouTube bằng Apache JMeter
 
 ## 1. Mục tiêu kiểm thử

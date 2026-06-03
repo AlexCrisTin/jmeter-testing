@@ -29,7 +29,8 @@ Trong JMeter, bài kiểm thử được cấu hình với các thành phần ch
 
 Tổng số request được thực hiện là **100 samples**, trong đó mỗi chức năng có **50 samples**.
 
----
+<img width="1125" height="758" alt="Screenshot 2026-06-03 170143" src="https://github.com/user-attachments/assets/12dde367-3f4c-46b7-bc9d-f00f8241cdd1" />
+
 
 ## 3. Kết quả kiểm thử
 
@@ -40,6 +41,10 @@ Kết quả thu được từ **Aggregate Graph** trong JMeter như sau:
 | Open YouTube Home Page |      50 | 1136 ms |  513 ms |  3347 ms |  3381 ms |  3815 ms | 350 ms | 3815 ms |   0.00% |    4.2/sec |
 | Open Video Page        |      50 | 1194 ms | 1164 ms |  1464 ms |  1630 ms |  2508 ms | 464 ms | 2508 ms |   0.00% |    4.2/sec |
 | TOTAL                  |     100 | 1165 ms | 1055 ms |  2417 ms |  3347 ms |  3794 ms | 350 ms | 3815 ms |   0.00% |    6.7/sec |
+
+
+<img width="1102" height="788" alt="Screenshot 2026-06-03 170129" src="https://github.com/user-attachments/assets/5afad9c3-4e82-4760-86ec-3538cd897ea5" />
+
 
 Ngoài ra, trong phần **Graph Results**, JMeter ghi nhận:
 
@@ -52,7 +57,8 @@ Ngoài ra, trong phần **Graph Results**, JMeter ghi nhận:
 | Deviation      |         797 ms |
 | Throughput     | 408.960/minute |
 
----
+<img width="1121" height="752" alt="Screenshot 2026-06-03 170118" src="https://github.com/user-attachments/assets/e8445d16-8352-4961-a230-c90cb0767d67" />
+
 
 ## 4. Nhận xét kết quả
 
